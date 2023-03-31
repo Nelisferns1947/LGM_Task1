@@ -1,2 +1,2 @@
 # LGM_Task1
-## Iris Flower Classification ML Project
+## IRIS Flower Classification using ML 
